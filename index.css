@@ -1,0 +1,71 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    text-align: center;
+    margin-top: 150px;
+    background-color: white;
+}
+
+.login {
+    border: 1px solid lightgrey;
+    width: 400px;
+    margin: auto;
+    height: 275px;
+
+}
+
+h1 {
+   text-align: left;
+   margin-left: 15px;
+   margin-top: 0px;
+}
+
+
+form label {
+    padding: 100px;
+    margin-left: -35%;
+}
+
+
+input {
+    margin-top: 5px;
+    width: 90%;
+    
+}
+
+#forgot {
+    text-decoration: none;
+}
+
+.continue {
+    margin: auto;
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#help {
+    margin-left: -280px;
+    text-decoration: none;
+    
+}
+
+.new {
+    margin: auto;
+    width: 31%;
+}
+
+hr{
+    margin-top: 50px;
+}
+
+footer {
+    margin-top: 50px;
+
+}
+
+.bottom p {
+    margin-top: 50px;
+}
